@@ -1,5 +1,9 @@
 # vue-editor
 
+![示例图片](https://github.com/happydele/vue-richTextEditor/blob/master/src/assets/demo1.png)
+
+![示例图片](https://github.com/happydele/vue-richTextEditor/blob/master/src/assets/demo2.png)
+
 ## Project setup
 ```
 yarn install
